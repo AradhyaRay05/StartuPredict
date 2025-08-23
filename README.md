@@ -1,4 +1,4 @@
-# 🚀 StartuPredict – AI-powered startup profit predictor  
+# 📈 StartuPredict – AI-powered startup profit predictor  
 
 
 
