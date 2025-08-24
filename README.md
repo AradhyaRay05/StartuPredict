@@ -1,6 +1,8 @@
 # 📈 StartuPredict – AI-powered startup profit predictor  
 
-## 📌 What this project delivers  
+---
+
+## 🔍 Project Goal 
 StartuPredict is a machine learning-based web app that predicts a startup's profit based on its **R&D spend, Administration costs, Marketing spend, and Location**. It helps entrepreneurs and analysts make **data-driven decisions** with ease.  
 
 ---
