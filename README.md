@@ -17,7 +17,14 @@ This project uses a **linear regression model** trained on a startup dataset to 
 
 
 
+## 📌 How to Run Locally  
 
+```
+git clone https://github.com/yourusername/StartuPredict.git
+cd StartuPredict
+pip install -r requirements.txt
+streamlit run app.py
+```
 ---
 
 ## 📄 License
