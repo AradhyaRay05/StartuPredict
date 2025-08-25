@@ -25,6 +25,10 @@ This project uses a **linear regression model** trained on a startup dataset to 
 - Built and trained a **Multiple Linear Regression (MLR)** model using `scikit-learn`.  
 - Stored the trained model in `model.pkl` using `pickle` for easy deployment.  
 
+### **3️⃣ Evaluation Metrics**  
+- **R² Score:** ~0.94, indicating strong correlation between predicted and actual values.  
+- **Mean Squared Error (MSE):** Low, ensuring minimal error in predictions.  
+- **Adjusted R²:** Verified the reliability of the model with multiple input features.
 
 
 ## 📌 How to Run Locally  
