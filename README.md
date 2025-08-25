@@ -21,6 +21,9 @@ This project uses a **linear regression model** trained on a startup dataset to 
 - Split data into **80% training** and **20% testing** sets using `train_test_split`.
 
 
+### **2️⃣ Model Building**  
+- Built and trained a **Multiple Linear Regression (MLR)** model using `scikit-learn`.  
+- Stored the trained model in `model.pkl` using `pickle` for easy deployment.  
 
 
 
