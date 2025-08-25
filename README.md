@@ -12,6 +12,13 @@ This project uses a **linear regression model** trained on a startup dataset to 
 
 ---
 
+## 🔄 Project Workflow  
+
+### **1️⃣ Data Preprocessing**  
+- Handled missing values and removed inconsistencies.  
+- Converted categorical variables (States) into dummy variables for better compatibility with the regression model.  
+- Normalized numerical values where necessary.  
+- Split data into **80% training** and **20% testing** sets using `train_test_split`.
 
 
 
