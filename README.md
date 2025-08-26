@@ -33,7 +33,6 @@ This project uses a **linear regression model** trained on a startup dataset to 
 - Developed a clean **Streamlit** app for interactive predictions.  
 - Added **sliders and dropdown menus** for easy data input.  
 - Predictions are generated in **real-time** with clear output formatting.  
-- Ready for cloud deployment using **Streamlit Cloud** or **Heroku**.
 
 
 ## 📌 How to Run Locally  
