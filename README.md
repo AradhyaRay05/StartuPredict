@@ -30,8 +30,7 @@ This project uses a **linear regression model** trained on a startup dataset to 
 - **Adjusted R²:** Verified the reliability of the model with multiple input features.
 
 ### **4️⃣ Deployment**  
-- Developed a clean **Streamlit** app for interactive predictions.  
-- Added **sliders and dropdown menus** for easy data input.  
+- Developed a clean **Streamlit** app for interactive predictions.
 - Predictions are generated in **real-time** with clear output formatting.  
 
 
