@@ -30,6 +30,12 @@ This project uses a **linear regression model** trained on a startup dataset to 
 - **Mean Squared Error (MSE):** Low, ensuring minimal error in predictions.  
 - **Adjusted R²:** Verified the reliability of the model with multiple input features.
 
+### **4️⃣ Deployment**  
+- Developed a clean **Streamlit** app for interactive predictions.  
+- Added **sliders and dropdown menus** for easy data input.  
+- Predictions are generated in **real-time** with clear output formatting.  
+- Ready for cloud deployment using **Streamlit Cloud** or **Heroku**.
+
 
 ## 📌 How to Run Locally  
 
