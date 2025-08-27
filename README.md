@@ -33,6 +33,12 @@ This project uses a **linear regression model** trained on a startup dataset to 
 - Developed a clean **Streamlit** app for interactive predictions.
 - Predictions are generated in **real-time** with clear output formatting.  
 
+---
+
+
+
+
+---
 
 ## 📌 How to Run Locally  
 
