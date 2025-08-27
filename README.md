@@ -46,7 +46,11 @@ This project uses a **linear regression model** trained on a startup dataset to 
 
 ---
 
-
+## 🔮 Future Enhancements  
+- Integrate advanced models like **Random Forest** or **XGBoost** for improved accuracy.  
+- Add visual dashboards for profit analysis.  
+- Build an API for external integrations.  
+- Deploy with Docker for scalability and portability.  
 
 ---
 
