@@ -36,7 +36,7 @@ This project uses a **linear regression model** trained on a startup dataset to 
 ---
 
 ## 🛠 Tech Stack  
-- **Programming Language:** Python 3  
+- **Programming Language:** Python   
 - **Libraries Used:**  
   - **Streamlit** – Interactive web interface  
   - **Pandas** – Data manipulation and analysis  
