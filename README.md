@@ -35,7 +35,15 @@ This project uses a **linear regression model** trained on a startup dataset to 
 
 ---
 
-
+## 🛠 Tech Stack  
+- **Programming Language:** Python 3  
+- **Libraries Used:**  
+  - **Streamlit** – Interactive web interface  
+  - **Pandas** – Data manipulation and analysis  
+  - **NumPy** – Numerical computations  
+  - **Matplotlib** – Data visualization  
+  - **Scikit-learn** – Machine learning and evaluation  
+  - **Pickle** – Saving and loading the trained model  
 
 ---
 
