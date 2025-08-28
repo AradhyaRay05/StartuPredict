@@ -53,7 +53,6 @@ This project uses a **linear regression model** trained on a startup dataset to 
 
 ```
 
-
 ---
 
 ## ✨ Features  
