@@ -47,6 +47,9 @@ This project uses a **linear regression model** trained on a startup dataset to 
 
 ---
 
+
+---
+
 ## ✨ Features  
 - Predict startup profits quickly with just a few inputs.  
 - Simple and clean Streamlit interface for ease of use.  
