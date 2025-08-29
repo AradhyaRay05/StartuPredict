@@ -51,6 +51,14 @@ This project uses a **linear regression model** trained on a startup dataset to 
 
 ```
 
+StartuPredict/
+│
+├── app.py               # Main Streamlit app
+├── model.pkl            # Trained MLR model
+├── startup_profit.ipynb # Notebook for training and testing
+├── requirements.txt     # Required dependencies
+└── README.md            # Project documentation
+
 ```
 
 ---
