@@ -56,6 +56,7 @@ StartuPredict/
 │   └── startup_data.csv          # Raw dataset used for training
 ├── .gitignore                    # Files/directories to exclude from Git tracking
 ├── LICENSE                       # Allows reuse, with attribution, no warranty
+├── README.md                     # Project documentation
 ├── app.py                        # Main Streamlit app
 ├── model.pkl                     # Trained MLR model
 ├── startup_profit.ipynb          # Notebook for training and testing
