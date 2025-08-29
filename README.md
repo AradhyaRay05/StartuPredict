@@ -54,6 +54,8 @@ This project uses a **linear regression model** trained on a startup dataset to 
 StartuPredict/
 ├── dataset/
 │   └── startup_data.csv          # Raw dataset used for training
+├── .gitignore                    # Files/directories to exclude from Git tracking
+├── LICENSE                       # Allows reuse, with attribution, no warranty
 ├── app.py                        # Main Streamlit app
 ├── model.pkl                     # Trained MLR model
 ├── startup_profit.ipynb          # Notebook for training and testing
