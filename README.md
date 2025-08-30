@@ -61,7 +61,7 @@ StartuPredict/
 ├── model.pkl                     # Trained MLR model
 ├── startup_profit.ipynb          # Notebook for training and testing
 ├── requirements.txt              # Required dependencies
-└── README.md                     # Project documentation
+└── 
 
 ```
 
