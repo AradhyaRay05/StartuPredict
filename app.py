@@ -4,7 +4,7 @@ import pickle
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
-with open(r'D:\Education\Coding\Machine Learning\Machine Learning Projects\Startup Prediction\model.pkl', 'rb') as f:
+with open('model.pkl', 'rb') as f:
     regressor = pickle.load(f)
 st.title("Startup Profit Prediction")
 
