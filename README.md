@@ -59,9 +59,9 @@ StartuPredict/
 ├── README.md                     # Project documentation
 ├── app.py                        # Main Streamlit app
 ├── model.pkl                     # Trained MLR model
-├── startup_profit.ipynb          # Notebook for training and testing
+├── 
 ├── requirements.txt              # Required dependencies
-└── 
+└── startup_profit.ipynb          # Notebook for training and testing
 
 ```
 
